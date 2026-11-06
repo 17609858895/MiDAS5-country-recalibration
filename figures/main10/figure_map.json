@@ -1,0 +1,234 @@
+{
+  "figures": {
+    "Fig1": {
+      "title": "Survey, community profiles and validation design",
+      "old": [
+        "1a",
+        "1b",
+        "1c",
+        "1d",
+        "S1a",
+        "S1b"
+      ],
+      "stem": "Fig1_survey_design",
+      "height": 11.6,
+      "new_panels": {
+        "1a": "a",
+        "1b": "b",
+        "1c": "c",
+        "1d": "d",
+        "S1a": "e",
+        "S1b": "f"
+      }
+    },
+    "Fig2": {
+      "title": "Cross-country prediction and country offsets",
+      "old": [
+        "2a",
+        "2b",
+        "2c",
+        "2d",
+        "2e",
+        "2f"
+      ],
+      "stem": "Fig2_cross_country_prediction",
+      "height": 13.0,
+      "new_panels": {
+        "2a": "a",
+        "2b": "b",
+        "2c": "c",
+        "2d": "d",
+        "2e": "e",
+        "2f": "f"
+      }
+    },
+    "Fig3": {
+      "title": "Model stacking across countries",
+      "old": [
+        "2g",
+        "S3a",
+        "S3b",
+        "S3c",
+        "S3d"
+      ],
+      "stem": "Fig3_stacking",
+      "height": 10.2,
+      "new_panels": {
+        "2g": "a",
+        "S3a": "b",
+        "S3b": "c",
+        "S3c": "d",
+        "S3d": "e"
+      }
+    },
+    "Fig4": {
+      "title": "Taxonomic resolution and geographic reliance",
+      "old": [
+        "3a",
+        "S8a",
+        "S8b",
+        "S8c",
+        "3c",
+        "3d",
+        "3e"
+      ],
+      "stem": "Fig4_resolution_geographic_reliance",
+      "height": 11.8,
+      "new_panels": {
+        "3a": "a",
+        "S8a": "b",
+        "S8b": "c",
+        "S8c": "d",
+        "3c": "e",
+        "3d": "f",
+        "3e": "g"
+      }
+    },
+    "Fig5": {
+      "title": "Primer transfer and feature-level remedies",
+      "old": [
+        "S7a",
+        "S7b",
+        "3g"
+      ],
+      "stem": "Fig5_primer_feature_remedies",
+      "height": 8.0,
+      "new_panels": {
+        "S7a": "a",
+        "S7b": "b",
+        "3g": "c"
+      }
+    },
+    "Fig6": {
+      "title": "Few-label country recalibration",
+      "old": [
+        "1e",
+        "4a",
+        "4b",
+        "4g",
+        "4h"
+      ],
+      "stem": "Fig6_few_label_recalibration",
+      "height": 11.8,
+      "new_panels": {
+        "1e": "a",
+        "4a": "b",
+        "4b": "c",
+        "4g": "d",
+        "4h": "e"
+      }
+    },
+    "Fig7": {
+      "title": "Shrinkage components and label budgets",
+      "old": [
+        "4c",
+        "4d",
+        "4e",
+        "4f",
+        "S4a",
+        "S4b"
+      ],
+      "stem": "Fig7_shrinkage_label_budget",
+      "height": 11.8,
+      "new_panels": {
+        "4c": "a",
+        "4d": "b",
+        "4e": "c",
+        "4f": "d",
+        "S4a": "e",
+        "S4b": "f"
+      }
+    },
+    "Fig8": {
+      "title": "Country-aware prediction intervals",
+      "old": [
+        "5a",
+        "5b",
+        "S5a",
+        "S5b",
+        "5c",
+        "S5c"
+      ],
+      "stem": "Fig8_prediction_intervals",
+      "height": 16.4,
+      "new_panels": {
+        "5a": "a",
+        "5b": "b",
+        "S5a": "c",
+        "S5b": "d",
+        "5c": "e",
+        "S5c": "f"
+      }
+    },
+    "Fig9": {
+      "title": "Operating-state classification across countries",
+      "old": [
+        "5d",
+        "5e",
+        "5f",
+        "S8d",
+        "S8e",
+        "S8f"
+      ],
+      "stem": "Fig9_operating_state_classification",
+      "height": 8.7,
+      "new_panels": {
+        "5d": "a",
+        "5e": "b",
+        "5f": "c",
+        "S8d": "d",
+        "S8e": "e",
+        "S8f": "f"
+      }
+    },
+    "Fig10": {
+      "title": "Within-country ammonium associations",
+      "old": [
+        "6a",
+        "6b",
+        "6c",
+        "6d",
+        "6e",
+        "6f",
+        "S6a",
+        "S6b"
+      ],
+      "stem": "Fig10_ammonium_associations",
+      "height": 15.8,
+      "new_panels": {
+        "6a": "a",
+        "6b": "b",
+        "6c": "c",
+        "6d": "d",
+        "6e": "e",
+        "6f": "f",
+        "S6a": "g",
+        "S6b": "h"
+      }
+    },
+    "FigS1": {
+      "title": "Country prediction offsets",
+      "old": [
+        "S2a",
+        "S2b",
+        "S2c",
+        "S2d",
+        "S2e"
+      ],
+      "stem": "FigS1_country_offsets",
+      "height": 9.2,
+      "new_panels": {
+        "S2a": "a",
+        "S2b": "b",
+        "S2c": "c",
+        "S2d": "d",
+        "S2e": "e"
+      }
+    }
+  },
+  "deleted_duplicate": {
+    "3b": "4b",
+    "3f": "5b"
+  },
+  "notes": "Old 3b duplicates the LOCO lines retained within new 4b, which also includes GKF5. Old 3f duplicates four primer scenarios retained within the complete six-scenario new 5b. Old S2 is retained as new SI FigS1."
+}

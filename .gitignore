@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+processed/
+results/
+data_extracted/
+docs/
+*.zip
+*.pkl
+figures/main10/Fig*/
